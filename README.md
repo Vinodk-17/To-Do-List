@@ -37,14 +37,13 @@ To contribute
 
 * Create a file 
 * file name = yourname.json (yourname = put your name)
-* Create a file 
-* file name = yourname.json (yourname = put your name)
 * Append your details to  `contributors.json` file in the below format:
 ```
 {
     "github-username": "YOUR-GITHUB-USERNAME" 
 }
-* for [example](https://github.com/Vinodk-17/weatherapiminiproject/tree/main/contributors) 
+```
+* for [example](https://github.com/Vinodk-17/To-Do-List/tree/main/contributors) 
 
 ## For additional questions:
 

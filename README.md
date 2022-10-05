@@ -43,7 +43,7 @@ To contribute
     "github-username": "YOUR-GITHUB-USERNAME" 
 }
 ```
-* for [example](https://github.com/Vinodk-17/To-Do-List/tree/main/contributors) 
+* for [example](https://github.com/Vinodk-17/To-Do-List/blob/main/contributors/dhara.json) 
 
 ## For additional questions:
 

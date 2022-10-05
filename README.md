@@ -6,7 +6,7 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/Vinodk-17/T0-Do-List)
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
 <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> 
-<a href="https://github.com/Vinodk-17/T0-Do-List" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
+<a href="https://github.com/Vinodk-17/To-Do-List" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
 </div>
 
 ### This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:

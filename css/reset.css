@@ -4,12 +4,21 @@
     box-sizing: border-box;
 }
 
+#btnAdd{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: cell;
+}
+
+#btnAdd:hover{
+    border: 2px solid rgb(6, 186, 81);
+    font-weight: 500;
+}
+
 button{
     background: none;
     outline: none;
     border: none;
     font-family: 'Space Grotesk', sans-serif;
-
     cursor: pointer;
 }
 
@@ -17,6 +26,7 @@ button{
 input{
     background: none;
     outline: none;
-    border: none;
-    font-family: 'Space Grotesk', sans-serif;
+    border: 2px solid black;
+    /* font-family: 'Space Grotesk', sans-serif; */
+    font-family: 'Courier New', Courier, monospace;
 }
